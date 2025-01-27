@@ -667,14 +667,14 @@ importers:
         specifier: workspace:*
         version: link:../../packages/webdriverio
       '@wdio/cli':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/globals':
-        specifier: 9.7.0
-        version: 9.7.0(@wdio/logger@9.4.4)
+        specifier: 9.7.1
+        version: 9.7.1(@wdio/logger@9.4.4)
       '@wdio/local-runner':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/reporter':
         specifier: 9.6.3
         version: 9.6.3
@@ -694,8 +694,8 @@ importers:
         specifier: 5.7.3
         version: 5.7.3
       webdriverio:
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
 
   examples/webdriverio-jasmine:
     devDependencies:
@@ -718,14 +718,14 @@ importers:
         specifier: 5.1.5
         version: 5.1.5
       '@wdio/cli':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/globals':
-        specifier: 9.7.0
-        version: 9.7.0(@wdio/logger@9.4.4)
+        specifier: 9.7.1
+        version: 9.7.1(@wdio/logger@9.4.4)
       '@wdio/local-runner':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/reporter':
         specifier: 9.6.3
         version: 9.6.3
@@ -745,8 +745,8 @@ importers:
         specifier: 5.7.3
         version: 5.7.3
       webdriverio:
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
 
   examples/webdriverio-mocha:
     devDependencies:
@@ -769,14 +769,14 @@ importers:
         specifier: 10.0.10
         version: 10.0.10
       '@wdio/cli':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/globals':
-        specifier: 9.7.0
-        version: 9.7.0(@wdio/logger@9.4.4)
+        specifier: 9.7.1
+        version: 9.7.1(@wdio/logger@9.4.4)
       '@wdio/local-runner':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/reporter':
         specifier: 9.6.3
         version: 9.6.3
@@ -796,8 +796,8 @@ importers:
         specifier: 5.7.3
         version: 5.7.3
       webdriverio:
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
 
   examples/webdriverio-mocha-todomvc:
     devDependencies:
@@ -826,14 +826,14 @@ importers:
         specifier: 10.0.10
         version: 10.0.10
       '@wdio/cli':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/globals':
-        specifier: 9.7.0
-        version: 9.7.0(@wdio/logger@9.4.4)
+        specifier: 9.7.1
+        version: 9.7.1(@wdio/logger@9.4.4)
       '@wdio/local-runner':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/reporter':
         specifier: 9.6.3
         version: 9.6.3
@@ -853,8 +853,8 @@ importers:
         specifier: 5.7.3
         version: 5.7.3
       webdriverio:
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
 
   integration/cucumber-1:
     devDependencies:
@@ -2150,11 +2150,11 @@ importers:
         specifier: workspace:*
         version: link:../../packages/webdriverio
       '@wdio/cli':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/local-runner':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/reporter':
         specifier: 9.6.3
         version: 9.6.3
@@ -2162,8 +2162,8 @@ importers:
         specifier: 9.6.3
         version: 9.6.3
       webdriverio:
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
     devDependencies:
       '@types/mocha':
         specifier: 10.0.10
@@ -2199,17 +2199,17 @@ importers:
         specifier: workspace:*
         version: link:../../packages/webdriverio
       '@wdio/cli':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/local-runner':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/spec-reporter':
         specifier: 9.6.3
         version: 9.6.3
       webdriverio:
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
     devDependencies:
       '@types/mocha':
         specifier: 10.0.10
@@ -2242,20 +2242,20 @@ importers:
         specifier: workspace:*
         version: link:../../packages/webdriverio
       '@wdio/cli':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/globals':
-        specifier: 9.7.0
-        version: 9.7.0(@wdio/logger@9.4.4)
+        specifier: 9.7.1
+        version: 9.7.1(@wdio/logger@9.4.4)
       '@wdio/local-runner':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/spec-reporter':
         specifier: 9.6.3
         version: 9.6.3
       webdriverio:
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
     devDependencies:
       '@types/mocha':
         specifier: 10.0.10
@@ -2303,14 +2303,14 @@ importers:
         specifier: 10.0.10
         version: 10.0.10
       '@wdio/cli':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/globals':
-        specifier: 9.7.0
-        version: 9.7.0(@wdio/logger@9.4.4)
+        specifier: 9.7.1
+        version: 9.7.1(@wdio/logger@9.4.4)
       '@wdio/local-runner':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/spec-reporter':
         specifier: 9.6.3
         version: 9.6.3
@@ -2339,8 +2339,8 @@ importers:
         specifier: 5.7.3
         version: 5.7.3
       webdriverio:
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
 
   packages/assertions:
     dependencies:
@@ -3046,14 +3046,14 @@ importers:
         specifier: 10.0.10
         version: 10.0.10
       '@wdio/cli':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/dot-reporter':
         specifier: 9.6.3
         version: 9.6.3
       '@wdio/local-runner':
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
       '@wdio/spec-reporter':
         specifier: 9.6.3
         version: 9.6.3
@@ -3082,8 +3082,8 @@ importers:
         specifier: 2.0.10
         version: 2.0.10
       webdriverio:
-        specifier: 9.7.0
-        version: 9.7.0
+        specifier: 9.7.1
+        version: 9.7.1
 
   packages/webdriverio-8:
     dependencies:
@@ -4843,8 +4843,8 @@ packages:
     engines: {node: ^16.13 || >=18}
     hasBin: true
 
-  '@wdio/cli@9.7.0':
-    resolution: {integrity: sha512-iQHNObTor4w+LOhNmAGfy1kNyrmCVlNQa54WEWIGBzQpqB7MI3ZpPCk6m+ISJatrCaINgagMEM/rRKRsEJ3+Lg==}
+  '@wdio/cli@9.7.1':
+    resolution: {integrity: sha512-oPCmjle4+UEFs2WAql3HQNfRgTu3orwb139jt79cS9XtNtGku4iiAgD/lND+c555TnVJin2BWdu1D4kZdCTVBw==}
     engines: {node: '>=18.20.0'}
     hasBin: true
 
@@ -4876,16 +4876,16 @@ packages:
     resolution: {integrity: sha512-xfUpEppdKzMHy4qoSoQN1cXoBPPh7oMeX+U/jtdvOtla+dd/YZ8pu47zLhQ/GM3gDVrBGnO4w3u4L6Zf/P3KEw==}
     engines: {node: ^16.13 || >=18}
 
-  '@wdio/globals@9.7.0':
-    resolution: {integrity: sha512-8sBvUGd2wjNyNZO2MyZICKTJbRKldTnispVwOZEHWjjNwQYxepx36WKQdUIaiLvVQqJ/gLldr4Rb9YFqYwYE9Q==}
+  '@wdio/globals@9.7.1':
+    resolution: {integrity: sha512-o3Zaiyi/amH3VF+D2+lB+UXcaksWx44SIIVZjkgYgHsKAnmrv04JfkneQo+x05J/vNc+BM6jwTgTAtmkfF/t5w==}
     engines: {node: '>=18.20.0'}
 
   '@wdio/local-runner@8.41.0':
     resolution: {integrity: sha512-A5msAjAC8gqiWvtFl+VNm9BBlVb5q3a2o7i+L+Cw7idV3aFY5etigB2wLYMtyBWgB8cXvbZaxXizHhGvZ+iB8Q==}
     engines: {node: ^16.13 || >=18}
 
-  '@wdio/local-runner@9.7.0':
-    resolution: {integrity: sha512-oNOidrTkzfm3CuXKDkoL+BrM4bphjg3JI5H1GVgFnS3+K1OzBmx3Y1/jQpSjX8rJcHfR0Dj3B8ubcUtZx0Nbdg==}
+  '@wdio/local-runner@9.7.1':
+    resolution: {integrity: sha512-VgSEo9/Z7byTdtjQyUryr4nCIY/1/Du8VkSoyW641+2+QQR5XvhcbU5TIdOfaplj7Bvearfl8S3h8E7swN0L/Q==}
     engines: {node: '>=18.20.0'}
 
   '@wdio/logger@8.38.0':
@@ -4925,8 +4925,8 @@ packages:
     resolution: {integrity: sha512-eQ9vZaHIXBLw7XqiKsasiUGjC8PgJawnHFMPKS0i/4ds+5arHo6ciX0s2uhJ3j/EHw3PYvFPCREp/sXetRuNlQ==}
     engines: {node: ^16.13 || >=18}
 
-  '@wdio/runner@9.7.0':
-    resolution: {integrity: sha512-JxkyuEC6nxzUooc3eukp9uwWRUstIaJCogHhxgRCtmqV6GESF8tMwiSRNdutn68kiP8gw4tWOCUu85pP4h9L4Q==}
+  '@wdio/runner@9.7.1':
+    resolution: {integrity: sha512-S3MFpAS9LtMCLYH2Vt+AGmRjakGH5DVn96GGo0AeqeUcx3JZPGqj03QYbm6QUFgsXf6HqqTdTW1GcPc8PpMXJQ==}
     engines: {node: '>=18.20.0'}
 
   '@wdio/spec-reporter@8.41.0':
@@ -10708,8 +10708,8 @@ packages:
       devtools:
         optional: true
 
-  webdriverio@9.7.0:
-    resolution: {integrity: sha512-arwBmSdKUS8vd6IFjRmN5m+/EYWxmrK070gJtpMaYftgWuH0+yRvP3SuUJTJO6xW1K0cWON7blDge693a45h6w==}
+  webdriverio@9.7.1:
+    resolution: {integrity: sha512-P1roVTpXwtzSgNKl9j92LF4+5i2eGd0n9EMvMRdLNnI0v1ws7dNJOHNgsEAepZqMikYPgh2m+5DyXR1Ygoa+nQ==}
     engines: {node: '>=18.20.0'}
     peerDependencies:
       puppeteer-core: ^22.3.0
@@ -13272,12 +13272,12 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@wdio/cli@9.7.0':
+  '@wdio/cli@9.7.1':
     dependencies:
       '@types/node': 20.17.16
       '@vitest/snapshot': 2.1.8
       '@wdio/config': 9.6.4
-      '@wdio/globals': 9.7.0(@wdio/logger@9.4.4)
+      '@wdio/globals': 9.7.1(@wdio/logger@9.4.4)
       '@wdio/logger': 9.4.4
       '@wdio/protocols': 9.7.0
       '@wdio/types': 9.6.3
@@ -13296,7 +13296,7 @@ snapshots:
       read-pkg-up: 10.1.0
       recursive-readdir: 2.2.3
       tsx: 4.19.2
-      webdriverio: 9.7.0
+      webdriverio: 9.7.1
       yargs: 17.7.2
     transitivePeerDependencies:
       - bare-buffer
@@ -13390,10 +13390,10 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@wdio/globals@9.7.0(@wdio/logger@9.4.4)':
+  '@wdio/globals@9.7.1(@wdio/logger@9.4.4)':
     optionalDependencies:
-      expect-webdriverio: 5.0.5(@wdio/globals@9.7.0(@wdio/logger@9.4.4))(@wdio/logger@9.4.4)(webdriverio@9.7.0)
-      webdriverio: 9.7.0
+      expect-webdriverio: 5.0.5(@wdio/globals@9.7.1(@wdio/logger@9.4.4))(@wdio/logger@9.4.4)(webdriverio@9.7.1)
+      webdriverio: 9.7.1
     transitivePeerDependencies:
       - '@wdio/logger'
       - bare-buffer
@@ -13420,12 +13420,12 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@wdio/local-runner@9.7.0':
+  '@wdio/local-runner@9.7.1':
     dependencies:
       '@types/node': 20.17.16
       '@wdio/logger': 9.4.4
       '@wdio/repl': 9.4.4
-      '@wdio/runner': 9.7.0
+      '@wdio/runner': 9.7.1
       '@wdio/types': 9.6.3
       async-exit-hook: 2.0.1
       split2: 4.2.0
@@ -13502,19 +13502,19 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@wdio/runner@9.7.0':
+  '@wdio/runner@9.7.1':
     dependencies:
       '@types/node': 20.17.16
       '@wdio/config': 9.6.4
       '@wdio/dot-reporter': 9.6.3
-      '@wdio/globals': 9.7.0(@wdio/logger@9.4.4)
+      '@wdio/globals': 9.7.1(@wdio/logger@9.4.4)
       '@wdio/logger': 9.4.4
       '@wdio/types': 9.6.3
       '@wdio/utils': 9.6.4
       deepmerge-ts: 7.1.4
-      expect-webdriverio: 5.0.5(@wdio/globals@9.7.0(@wdio/logger@9.4.4))(@wdio/logger@9.4.4)(webdriverio@9.7.0)
+      expect-webdriverio: 5.0.5(@wdio/globals@9.7.1(@wdio/logger@9.4.4))(@wdio/logger@9.4.4)(webdriverio@9.7.1)
       webdriver: 9.7.0
-      webdriverio: 9.7.0
+      webdriverio: 9.7.1
     transitivePeerDependencies:
       - bare-buffer
       - bufferutil
@@ -15690,9 +15690,9 @@ snapshots:
   execa@5.0.0:
     dependencies:
       cross-spawn: 7.0.6
-      get-stream: 6.0.0
+      get-stream: 6.0.1
       human-signals: 2.1.0
-      is-stream: 2.0.0
+      is-stream: 2.0.1
       merge-stream: 2.0.0
       npm-run-path: 4.0.1
       onetime: 5.1.2
@@ -15762,15 +15762,15 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  expect-webdriverio@5.0.5(@wdio/globals@9.7.0(@wdio/logger@9.4.4))(@wdio/logger@9.4.4)(webdriverio@9.7.0):
+  expect-webdriverio@5.0.5(@wdio/globals@9.7.1(@wdio/logger@9.4.4))(@wdio/logger@9.4.4)(webdriverio@9.7.1):
     dependencies:
       '@vitest/snapshot': 2.1.8
-      '@wdio/globals': 9.7.0(@wdio/logger@9.4.4)
+      '@wdio/globals': 9.7.1(@wdio/logger@9.4.4)
       '@wdio/logger': 9.4.4
       expect: 29.7.0
       jest-matcher-utils: 29.7.0
       lodash.isequal: 4.5.0
-      webdriverio: 9.7.0
+      webdriverio: 9.7.1
 
   expect@29.7.0:
     dependencies:
@@ -20323,7 +20323,7 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  webdriverio@9.7.0:
+  webdriverio@9.7.1:
     dependencies:
       '@types/node': 20.17.16
       '@types/sinonjs__fake-timers': 8.1.5
